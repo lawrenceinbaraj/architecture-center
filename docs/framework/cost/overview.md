@@ -36,6 +36,10 @@ Choose the right resources that are aligned with business goals and can handle t
 
 Certain infrastructure resources are delivered as fix-sized building blocks. Ensure that these blocks are adequately sized to meet capacity demand, deliver expected performance without wasting resources. 
 
+**Reservations**
+
+Purchase Reservations for VM's and other services which are intended to run for longer duration. Azure promises cost reduction upto 72% on certain reservations. What's more by enabling Capacity flexibiliy it can also be applied across similar SKU's of same family.
+
 **Monitor and optimize**
 
 Treat cost monitoring and optimization as a process, rather than a point-in-time activity. Conduct regular cost reviews and measure and forecast the capacity needs so that you can provision resources dynamically and scale with demand. Review the cost management recommendations and take action. 
